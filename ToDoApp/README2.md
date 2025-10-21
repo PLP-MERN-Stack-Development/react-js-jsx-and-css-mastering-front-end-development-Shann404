@@ -36,7 +36,7 @@ The app will start on: http://localhost:5173/
 ## 🖼️ Screenshots
 
 
-| ![Home Page](screenshots/Homepage.png) | ![Task Page](screenshots/TasksPage.png) | ![ API Page] (screenshots/APIPage.png)
+| ![Home Page] (screenshots/Homepage.png) | ![Task Page]      (screenshots/TasksPage.png) | ![ API Page] (screenshots/APIPage.png)
 
 
 
