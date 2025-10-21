@@ -1,4 +1,4 @@
-# 🧭 Task Manager App
+<img width="1707" height="954" alt="Homepage" src="https://github.com/user-attachments/assets/e5602054-f739-42bc-a2d3-91be39ebb92e" /># 🧭 Task Manager App
 
 A simple **Task Management Application** built with **React**, **Vite**, **Tailwind CSS**, and **Lucide Icons**.  
 It helps users manage tasks efficiently, explore an API integration demo, and toggle between light and dark modes.
@@ -33,13 +33,6 @@ The app will start on: http://localhost:5173/
 (Replace with your deployed site link, e.g., from Vercel, Netlify, or GitHub Pages)
 
 🖼️ Screenshots
-## 🖼️ Screenshots
-
-
-| ![Home Page] (screenshots/Homepage.png) | ![Task Page]  (screenshots/TasksPage.png) | ![ API Page] (screenshots/APIPage.png)
-
-
-
 
 
 Tests / Autograder Notes
