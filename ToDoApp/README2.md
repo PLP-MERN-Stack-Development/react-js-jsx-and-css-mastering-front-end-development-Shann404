@@ -10,6 +10,7 @@ It helps users manage tasks efficiently, explore an API integration demo, and to
 ### 1.Clone the repository
 
 git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Shann404/tree/main
+
 cd ToDoApp
 ### 2.Install dependencies
 
