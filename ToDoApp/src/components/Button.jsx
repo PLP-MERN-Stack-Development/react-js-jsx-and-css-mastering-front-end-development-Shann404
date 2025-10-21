@@ -12,8 +12,8 @@ import PropTypes from 'prop-types';
  * @returns {JSX.Element} - Button component
  */
 const Button = ({ 
-  variant = 'primary', 
-  size = 'md', 
+  variant = 'danger', 
+  size = 'lg', 
   disabled = false, 
   onClick, 
   children,
@@ -25,12 +25,15 @@ const Button = ({
   
   // Variant classes
   const variantClasses = {
-    primary: 'bg-blue-600 hover:bg-blue-700 text-white focus:ring-blue-500',
+    primary: 'bg-indigo-600 hover:bg-indigo-700 text-white focus:ring-indigo-500',
     secondary: 'bg-gray-200 hover:bg-gray-300 text-gray-800 focus:ring-gray-500',
-    danger: 'bg-red-600 hover:bg-red-700 text-white focus:ring-red-500',
-    success: 'bg-green-600 hover:bg-green-700 text-white focus:ring-green-500',
-    warning: 'bg-yellow-500 hover:bg-yellow-600 text-white focus:ring-yellow-500',
+    danger: 'bg-rose-600 hover:bg-rose-700 text-white focus:ring-rose-500',
+    success: 'bg-emerald-600 hover:bg-emerald-700 text-white focus:ring-emerald-500',
+    warning: 'bg-amber-500 hover:bg-amber-600 text-white focus:ring-amber-500',
   };
+
+
+
   
   // Size classes
   const sizeClasses = {
@@ -52,8 +55,9 @@ const Button = ({
       onClick={onClick}
       {...rest}
     >
-      {children}
-    </button>
+       
+        {children}
+      </button>
   );
 };
 
