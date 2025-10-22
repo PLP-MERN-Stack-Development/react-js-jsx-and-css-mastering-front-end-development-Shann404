@@ -30,8 +30,7 @@ Features Implemented
 
 ## Live Demo
 View the Live App
-(Replace with your deployed site link, e.g., from Vercel, Netlify, or GitHub Pages)
-
+[Visit the Live Site](https://shann404.github.io/ToDoApp/)
  Screenshots
 
 <img width="1707" height="954" alt="Homepage" src="https://github.com/user-attachments/assets/e5602054-f739-42bc-a2d3-91be39ebb92e" />
